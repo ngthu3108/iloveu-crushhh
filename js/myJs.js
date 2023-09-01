@@ -8,7 +8,7 @@ const textConfig = {
   text7: "你喜欢我的理由是什么？ :vvvv",
   text8: "给我吧 <3",
   text9: "不需要写任何东西。。。。。",
-  text10: "我知道^^爱你521次",
+  text10: "我知道^^爱你521",
   text11:
     "周末咱们去约会吧？？？",
   text12: "好吧 <3",
@@ -114,7 +114,7 @@ $(document).ready(function () {
       html: true,
       width: 900,
       padding: "3em",
-      html: "<input type='text' class='form-control' id='txtReason'  placeholder='为什么？为什么？？'>",
+      html: "<input type='text' class='form-control' id='txtReason'  placeholder='不需要写任何东西'>",
       background: '#fff url("img/iput-bg.jpg")',
       backdrop: `
                     rgba(0,0,123,0.4)
